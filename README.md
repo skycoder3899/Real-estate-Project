@@ -80,7 +80,7 @@ npm run dev
 ## Sigup Page 
 ![Alt text](Pictures/Signup.png?raw=true "Title")
 ## Login Page 
-![Alt text](Pictures/login.png?raw=true "Title")
+![Alt text](Pictures/Login.png?raw=true "Title")
 ## Home Page for Seller
 ![Alt text](Pictures/Seller.png?raw=true "Title")
 ### Add From Page for Seller
